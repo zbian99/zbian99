@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zheng Bian
-- ✨ I’m pursuing a Master's Degree in State Key Laboratory of High Performance Computing, \
+- ✨ I’m pursuing a Master's Degree in State Key Laboratory of High Performance Computing,
 - College of Computer Science and Technology, National University of Defense Technology in Changsha, China.
 - 🌱 I’m currently learning in Program Analysis
 
