@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zheng Bian
-- ✨ AI infra Engineer @MindSpeed-MM @VeOmni
+- ✨ AI Infra Engineer
 
 <!---
 zbian99/zbian99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
