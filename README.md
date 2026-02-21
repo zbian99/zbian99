@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zheng Bian
+- 👋 Hi, I’m Zheng Bian @ ACS Lab, Huawei Ltd. 
 - ✨ Distributed Pre/Post-Training System Optimzition / AI Infra / Harness Engineering
 
 <!---
