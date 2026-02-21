@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zheng Bian
-- ✨ AI Infra Engineer
+- ✨ Distributed Pre/Post-Training System Optimzition / AI Infra / Harness Engineering
 
 <!---
 zbian99/zbian99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
