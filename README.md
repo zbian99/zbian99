@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zheng Bian @ ACS Lab, Huawei Ltd. 
 - :man_technologist: Working on **AI Infra** - Distributed  Pre-training System Optimzition
 - :mag: Focus on
-  -  2025: **distributed attention algorithms** and **comm & comp overlap**.
+  -  2025: **distributed attention algorithms** and **fully comm & comp overlap**.
   -  2026: **adaptive HBM swapping system** and **high-performance offloading algorithms**.
 - ✨  Learning to Fully Vibe Coding / Harness Engineering
 
