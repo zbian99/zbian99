@@ -3,7 +3,7 @@
 - :mag: Working on
   -  2025: distributed attention algorithms and fully comm & comp overlap.
   -  2026: **adaptive HBM swapping system** and **high-performance offloading algorithms**.
-- ✨  Exploring **full-vibe coding and harness engineering**.
+- ✨  Exploring full-vibe coding and harness engineering.
 
 <!---
 zbian99/zbian99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
