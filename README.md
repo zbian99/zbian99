@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zheng Bian @ ACS Lab, Huawei Ltd. 
-- :man_technologist: Working on **AI Infra** - Distributed Pretraining System Optimzition
+- :man_technologist: Working on **AI Infra** - Distributed  Pre-training System Optimzition
 - ✨  Learning to Fully Vibe Coding / Harness Engineering
 
 <!---
